@@ -18,3 +18,13 @@ button.buttons{
 button.restart{
     width: 100px;
 }
+img.image{
+    width: 100px;
+    height: 100px;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    box-shadow: none;
+    margin: 50px;
+}
